@@ -14,7 +14,7 @@
     <properties>
         <!-- 依赖库的版本定义 -->
         <jackson.version>1.8.2</jackson.version>
-        <spring.version>3.2.5.RELEASE</spring.version>
+        <spring.version>5.2.24.RELEASE</spring.version>
         <struts2.version>2.3.14.2</struts2.version>
         <!-- Plugin属性定义 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
